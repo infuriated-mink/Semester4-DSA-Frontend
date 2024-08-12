@@ -3,7 +3,6 @@
 
 ## Frontend README
 
-```markdown
 # Binary Search Tree Frontend
 
 This is the frontend of the Binary Search Tree application, built using React. It provides a user-friendly interface for interacting with binary search trees.
